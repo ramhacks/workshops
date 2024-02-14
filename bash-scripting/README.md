@@ -1,9 +1,6 @@
 # Ram Hacks | Bash Scripting
 
-## Topic Overview
-
 - [Ram Hacks | Bash Scripting](#ram-hacks--bash-scripting)
-  - [Topic Overview](#topic-overview)
   - [Introduction to Bash](#introduction-to-bash)
   - [Variables](#variables)
   - [Conditionals](#conditionals)
