@@ -8,7 +8,7 @@ This is a directory for the various workshops that Ram Hacks has hosted or will 
 
 | Workshop Name | About | Author | Updated |
 | --- | --- | --- | --- |
-| [Bash Scripting](bash-scripting/README.md) | This workshop introduces the basics of Bash scripting, covering topics such as variables, loops, and conditionals. Beyond basic syntax, though, the workshop also touches on how to use Bash to automate tasks and write more complex scripts. | [Matt Hogan]('https://hoganmatt.me') | 2024-02-14 |
+| [Bash Scripting](bash-scripting/README.md) | This workshop introduces the basics of Bash scripting, covering topics such as variables, loops, and conditionals. Beyond basic syntax, though, the workshop also touches on how to use Bash to automate tasks and write more complex scripts. | [Matt Hogan](https://hoganmatt.me) | 2024-02-14 |
 | Docker | n/a | Nicholas Robillard | ~Fall '23 |
 | Git & GitHub | n/a | n/a | n/a |
 | Node.js | n/a | n/a | n/a |
@@ -16,7 +16,7 @@ This is a directory for the various workshops that Ram Hacks has hosted or will 
 
 ## Contributing
 
-Interested in contributing your own workshop? Great! Reach out to the [Ram Hacks admin]('mailto:ramhacks@rhodysenate.org') to get started. We're always looking for new workshops to add to our directory!
+Interested in contributing your own workshop? Great! Reach out to the [Ram Hacks admin](mailto:ramhacks@rhodysenate.org) to get started. We're always looking for new workshops to add to our directory!
 
 ### Guidelines
 
