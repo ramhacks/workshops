@@ -1,5 +1,11 @@
 # Ram Hacks | Workshop Directory
 
+- [Ram Hacks | Workshop Directory](#ram-hacks--workshop-directory)
+  - [Introduction](#introduction)
+  - [Directory](#directory)
+  - [Contributing](#contributing)
+    - [Guidelines](#guidelines)
+
 ## Introduction
 
 This is a directory for the various workshops that Ram Hacks has hosted or will host. Each workshop will have its own directory with a README.md file that will contain the information for the workshop.
