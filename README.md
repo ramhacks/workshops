@@ -15,7 +15,7 @@ This is a directory for the various workshops that Ram Hacks has hosted or will 
 | Workshop Name | About | Author | Updated |
 | --- | --- | --- | --- |
 | [Bash Scripting](bash-scripting/README.md) | This workshop introduces the basics of Bash scripting, covering topics such as variables, loops, and conditionals. Beyond basic syntax, though, the workshop also touches on how to use Bash to automate tasks and write more complex scripts. | [Matt Hogan](https://hoganmatt.me) | 2024-02-14 |
-| Docker | This workshop focuses on the basics of docker. This presentation covers what docker containers are and why they are used. The main purpose of this workshop was to get uri students aclimated with docker and how to start making containers. | Nicholas Robillard | ~Fall '23 |
+| [Docker](Docker_Example/Docker%20Workshop.pdf) | This workshop focuses on the basics of docker. This presentation covers what Docker containers are and why they are used. The main purpose of this workshop was to get URI students acclimated with Docker and how to start making containers. | [Nicholas Robillard](https://www.linkedin.com/in/nicholas-robillard-b4b848216/) | ~Fall '23 |
 | Git & GitHub | n/a | n/a | n/a |
 | Node.js | n/a | n/a | n/a |
 | React | n/a | Nicholas Tremblay | ~Fall '23 |
